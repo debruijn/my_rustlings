@@ -1,5 +1,5 @@
 # my_rustlings
-My personal implementations of the rustlings challenges to learn Rust.
+My personal implementations (and thus, progress tracker) of the rustlings challenges to learn Rust.
 
 See https://github.com/rust-lang/rustlings for the full project, and try to learn Rust as well!
 
